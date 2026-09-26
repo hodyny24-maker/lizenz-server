@@ -1,10 +1,12 @@
 {
-    "banned_hwids": [],
+    "banned_hwids": [
+        "HWID-E7FBF8E11FA"
+    ],
     "keys": {
         "KEY-ALPHA-1234": "HWID-E7FBF8E11FA",
         "KEY-BETA-5678": "UNBOUND",
         "leg-BETA-001": "HWID-E7FBF8E11FA",
         "leg-BETA-0021": "HWID-E7FBF8E11FA",
-        "leg-BETA-004": "HWID-E7FBF8E11FA"
+        "leg-BETA-004": "UNBOUND"
     }
 }
